@@ -99,13 +99,10 @@ Allows project managers to:
 ---
 
 # 🛠️ Technologies Used
-- Frontend: HTML, CSS, JavaScript
+- Frontend: React
 - Backend: Spring Boot / Java
-- Database: MySQL / PostgreSQL
-- Version Control: Git & GitHub
-
-> *(Edit this section based on the technologies you actually used.)*
-
+- Database: MySQL
+  
 ---
 
 # 👥 User Roles
@@ -126,30 +123,6 @@ Pending → In Progress → Completed
 
 ---
 
-# 🚀 Future Enhancements
-
-- Real-time chat between team members
-- File attachments for tasks
-- Dashboard analytics and reports
-- Email notifications
-- Mobile application support
-- Calendar integration
-
----
-
-# 📷 Screenshots
-
-_Add screenshots of your system here._
-
-Example:
-
-```md
-![Dashboard](images/dashboard.png)
-![Task Page](images/tasks.png)
-```
-
----
-
 # ⚙️ Installation & Setup
 
 ```bash
@@ -158,9 +131,35 @@ git clone https://github.com/your-username/taskmanager.git
 
 # Open the project
 cd taskmanager
+```
 
-# Run backend server
+## ▶️ Run the Backend (Spring Boot)
+
+```bash
+# Navigate to backend folder
+cd backend
+
+# Run Spring Boot application
 mvn spring-boot:run
+```
+
+## 💻 Run the Frontend (React)
+
+```bash
+# Navigate to frontend folder
+cd frontend
+
+# Install dependencies
+npm install
+
+# Start React development server
+npm run dev
+```
+
+> If your project uses Create React App instead of Vite, use:
+
+```bash
+npm start
 ```
 
 ---
@@ -181,9 +180,10 @@ taskmanager/
 
 # 🤝 Contributors
 
-- Your Name
-- Team Member 1
-- Team Member 2
+- Farida Ahmed
+- Youliana Raymond
+- Joanna Hazem
+-Nour Mohey
 
 ---
 
