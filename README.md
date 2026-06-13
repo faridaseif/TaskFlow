@@ -9,6 +9,18 @@ TaskManager improves productivity by simplifying task assignment, deadline track
 
 ---
 
+
+## 📷 Demo
+<img width="1918" height="874" alt="Screenshot 2026-05-18 113713" src="https://github.com/user-attachments/assets/5955e05e-6dc1-4800-ab87-379e6c55241d" />
+<img width="1902" height="869" alt="Screenshot 2026-05-18 113345" src="https://github.com/user-attachments/assets/88f9ba91-588c-4808-83e9-b6c931c41686" />
+<img width="1909" height="871" alt="Screenshot 2026-05-18 113233" src="https://github.com/user-attachments/assets/7467eabc-0024-4238-8049-c0a23b5c73ae" />
+<img width="1919" height="864" alt="Screenshot 2026-05-18 113401" src="https://github.com/user-attachments/assets/b1ac6321-4cbe-445d-aafa-c3e2c5e874fb" />
+<img width="1917" height="874" alt="Screenshot 2026-05-18 113607" src="https://github.com/user-attachments/assets/fac3add2-70ca-4e6c-a86b-ff27c2ff23ec" />
+
+
+---
+
+
 # ❗ Problem Statement
 Many organizations still manage tasks using scattered tools such as emails, messaging applications, or manual notes. This often causes:
 
